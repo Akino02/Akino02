@@ -4,6 +4,7 @@
 - 📫 How to reach me: Discord(Akino02#0980), Steam(<a href=https://steamcommunity.com/profiles/76561198147089025>Akino02</a>)
 - 😄 Favorit game <a href=https://store.steampowered.com/app/739630/Phasmophobia/>Phasmophobia</a>
 - ⚡ Fun fact: Big noob
+- 🤔 I’m looking for help with Czech Language
 - 💬 If you need something, ask me 
 #
 - 🛑 Working on this board
@@ -20,8 +21,7 @@ alt="HTML5" height="50" /></a>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
 -
 -->
