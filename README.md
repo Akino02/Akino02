@@ -1,6 +1,6 @@
 ### Hi there 👋
 #
-- 🌱 I’m currently learning IT (at <a href=https://www.spsmb.cz/></a>)
+- 🌱 I’m currently learning IT (at <a href=https://www.spsmb.cz/>SPSMB</a>)
 - 📫 How to reach me: Discord(Akino02#0980), Steam(<a href=https://steamcommunity.com/profiles/76561198147089025>Akino02</a>)
 - 😄 Favorit games <a href=https://store.steampowered.com/app/739630/Phasmophobia/>Phasmophobia</a>, <a href=https://www.minecraft.net/en-us/about
 minecraft>Minecraft</a>, <a href=https://store.steampowered.com/app/284160/BeamNGdrive/>BeamNG.drive</a> (only for a while)
