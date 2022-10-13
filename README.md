@@ -6,7 +6,7 @@
 - 😄 Favorit games <a href=https://store.steampowered.com/app/739630/Phasmophobia/>Phasmophobia</a>, <a href=https://www.minecraft.net/en-us/about
 minecraft>Minecraft</a>, <a href=https://store.steampowered.com/app/284160/BeamNGdrive/>BeamNG.drive</a> (only for a while)
 - ⚡ Fun fact: Big noob
-- 🤔 I’m looking for help with Czech Language
+- 🤔 I’m looking for help with Czech Language <a href="https://en.wikipedia.org/wiki/Czech_Republic"><img src="https://user-images.githubusercontent.com/115136363/195661567-dc3a2603-70d3-4679-a212-3e99265979c8.png" alt="CZ" width="17"></a>
 - 💬 If you need something, ask me 
 #
 <!-- - 🛑 Working in progress-->
