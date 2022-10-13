@@ -24,4 +24,4 @@ alt="HTML5" height="50" /></a>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 <hr>
-![Have_a_nice_day](https://user-images.githubusercontent.com/115136363/195660746-5cb05958-2e17-4a5b-9cea-2855d82ed15d.gif)
+<img src="https://user-images.githubusercontent.com/115136363/195660746-5cb05958-2e17-4a5b-9cea-2855d82ed15d.gif" alt="Have_a_nice_day">
