@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning IT (at <a href=https://www.spsmb.cz/>SPSMB</a>)
 - 📫 How to reach me: Discord(Akino02#0980), Steam(<a href="https://steamcommunity.com/profiles/76561198147089025"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam_logo_wiki" width="15" ></a>)
 - 😄 Favorit games <a href=https://store.steampowered.com/app/739630/Phasmophobia/>Phasmophobia</a>, <a href=https://www.minecraft.net/en-us/about
-minecraft>Minecraft</a>, <a href=https://store.steampowered.com/app/284160/BeamNGdrive/>BeamNG.drive</a> (only for a while), [My game](https://akino02.github.io/MineBlock/)
+minecraft>Minecraft</a>, <a href=https://store.steampowered.com/app/284160/BeamNGdrive/>BeamNG.drive</a> (only for a while)
 - ⚡ Fun fact: Big noob
 - 🤔 I’m looking for help with Czech Language <a href="https://en.wikipedia.org/wiki/Czech_Republic"><img src="https://user-images.githubusercontent.com/115136363/195661567-dc3a2603-70d3-4679-a212-3e99265979c8.png" alt="CZ" width="17"></a>
 - 💬 If you need something, ask me 
