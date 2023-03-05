@@ -1,4 +1,4 @@
-![tenor](https://user-images.githubusercontent.com/115136363/195656337-8dc71d5d-45cd-4e6c-8d26-9fb255b36d61.gif)
+![tenor](https://user-images.githubusercontent.com/115136363/222960214-b10c9cd8-87d5-4187-89bf-600fc058de82.gif)
 <!--### Hi there 👋-->
 #
 - 🌱 I’m currently learning IT (at <a href=https://www.spsmb.cz/>SPSMB</a>)
