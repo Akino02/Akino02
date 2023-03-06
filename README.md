@@ -29,5 +29,5 @@ alt="HTML5" height="50" /></a>
 </div>
 <hr>
 <h3>My recent projects</h3>
-- 🍪 <a href="https://akino02.github.io/MineBlock/">MineBlock(CookieClicker)</a><br>
-- ⚪ <a href="https://akino02.github.io/osu/">Wish Osu(Osu)</a>
+<li>🍪 <a href="https://akino02.github.io/MineBlock/">MineBlock(CookieClicker)</a></li>
+<li>⚪ <a href="https://akino02.github.io/osu/">Wish Osu(Osu)</a></li>
