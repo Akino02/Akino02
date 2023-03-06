@@ -1,15 +1,18 @@
-![welcome](https://user-images.githubusercontent.com/115136363/222960214-b10c9cd8-87d5-4187-89bf-600fc058de82.gif)
-![true](https://user-images.githubusercontent.com/115136363/223106502-a9c5ed39-3b22-4a81-ad59-5440699f7c81.gif)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115136363/223144523-e24158b1-3e02-4658-ba42-69f513911f25.gif" alt="welcome" />
+  <img src="https://user-images.githubusercontent.com/115136363/223106502-a9c5ed39-3b22-4a81-ad59-5440699f7c81.gif" alt="true" />
+</p>
 <!--### Hi there 👋-->
-#
-- 🌱 I’m currently learning IT (at <a href=https://www.spsmb.cz/>SPSMB</a>)
-- 📫 How to reach me: Discord(Akino02#0980), Steam(<a href="https://steamcommunity.com/profiles/76561198147089025"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam_logo_wiki" width="15" ></a>)
-- 😄 Favorit game <a href=https://store.steampowered.com/app/739630/Phasmophobia/>Phasmophobia</a>
-- ⚡ Fun fact: Big noob
-- 🤔 I’m looking for help with Czech Language <a href="https://en.wikipedia.org/wiki/Czech_Republic"><img src="https://user-images.githubusercontent.com/115136363/195661567-dc3a2603-70d3-4679-a212-3e99265979c8.png" alt="CZ" width="17"></a>
-- 💬 If you need something, ask me 
-#
+<hr>
+<ul>
+  <li>🌱 I’m currently learning IT (at <a href=https://www.spsmb.cz/>SPSMB</a>)</li>
+  <li>📫 How to reach me: Discord(Akino02#0980), Steam(<a href="https://steamcommunity.com/profiles/76561198147089025"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam_logo_wiki" width="15" ></a>)</li>
+  <li>😄 Favorit game <a href=https://store.steampowered.com/app/739630/Phasmophobia/>Phasmophobia</a></li>
+  <li>🤔 I’m looking for help with Czech Language <a href="https://en.wikipedia.org/wiki/Czech_Republic"><img src="https://user-images.githubusercontent.com/115136363/195661567-dc3a2603-70d3-4679-a212-3e99265979c8.png" alt="CZ" width="17"></a></li>
+  <li>⚡ Fun fact: Big noob</li>
+  <li>💬 If you need something, ask me </li>
+</ul>
+<hr>
 <!-- - 🛑 Working in progress-->
 <div>I have learned</div>
 <div>
