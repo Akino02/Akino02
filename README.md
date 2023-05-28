@@ -7,7 +7,7 @@
 <ul>
   <li>🌱 I’m currently learning IT (at <a href=https://www.spsmb.cz/>SPSMB</a>)</li>
   <li>📫 How to reach me: Discord(Akino02#0980), Steam(<a href="https://steamcommunity.com/profiles/76561198147089025"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam_logo_wiki" width="15" ></a>)</li>
-  <li>😄 Favorit game <a href=https://store.steampowered.com/app/739630/Phasmophobia/>Phasmophobia</a></li>
+  <li>😄 Favorit game <a href="https://store.steampowered.com/app/1929610/Demonologist/">Demonologist</a></li>
   <li>🤔 I’m looking for help with Czech Language <a href="https://en.wikipedia.org/wiki/Czech_Republic"><img src="https://user-images.githubusercontent.com/115136363/195661567-dc3a2603-70d3-4679-a212-3e99265979c8.png" alt="CZ" width="17"></a></li>
   <li>⚡ Fun fact: Big noob</li>
   <li>💬 If you need something, ask me </li>
