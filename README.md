@@ -38,4 +38,4 @@
 <li>🏰 Age of War(Unity)[currently working on it]</li>
 <hr>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akino02&show_icons=true&locale=en&layout=compact" alt="akino02" /></p>
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akino02&" alt="akino02" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akino02&show_icons=true&locale=en" alt="akino02" /></p>
