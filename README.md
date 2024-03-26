@@ -35,7 +35,9 @@
 <h3>My recent projects</h3>
 <li>🍪 <a href="https://akino02.github.io/MineBlock/">MineBlock(CookieClicker)</a></li>
 <li>⚪ <a href="https://akino02.github.io/osu/">Wish Osu(Osu)</a></li>
-<li>🏰 Age of War(Unity)[currently working on it]</li>
+<li>🏰 Wish of War (Age of War)(Unity)[currently working on it]</li>
+<h3>My recent projects with teams</h3>
+<li>👻 <a href="https://github.com/jirkapriv/PacmanThemedGame">PacMan</a></li>
 <hr>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akino02&show_icons=true&locale=en&layout=compact" alt="akino02" /></p>
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akino02&show_icons=true&locale=en" alt="akino02" /></p>
