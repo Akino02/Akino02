@@ -20,6 +20,7 @@
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </div>
 <br>
 <div>I'm learning</div>
@@ -29,13 +30,12 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </div>
 <hr>
 <h3>My recent projects</h3>
 <li>🍪 <a href="https://akino02.github.io/MineBlock/">MineBlock(CookieClicker)</a></li>
 <li>⚪ <a href="https://akino02.github.io/osu/">Wish Osu(Osu)</a></li>
-<li>🏰 <a href="https://github.com/Akino02/Wish_of_War">Wish of War (Age of War)(Unity)<a/></li>
+<li>🏰 <a href="https://github.com/Akino02/War-of-Civilizations">War of Civilizations (Age of War)(Unity)<a/></li>
 <h3>My recent projects with teams</h3>
 <li>👻 <a href="https://github.com/jirkapriv/PacmanThemedGame">PacMan</a></li>
 <hr>
