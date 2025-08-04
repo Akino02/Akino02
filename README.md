@@ -5,12 +5,13 @@
 # <p align="center" > 👋 Hello, I'm Michal 👋 </p>
 <!--### Hi there 👋-->
 <ul>
+  <!--<li>🌱 I'm currently studying at <a href="https://fit.cvut.cz/cs">ČVUT FIT</a></li>-->
   <li>🌱 I've graduated from IT (at <a href=https://www.spsmb.cz/>SPSMB</a>)</li>
       <li>📫 How to reach me: <a href="mailto:romster2012@post.cz">romster2012@post.cz</a></li>
       <li>📫 You can also contact me via Discord(akino02)</li>
   <!--<li>📫 How to reach me: Discord(akino02), Steam(<a href="https://steamcommunity.com/profiles/76561198147089025"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam_logo_wiki" width="15" ></a>)</li>-->
   <!--<li>😄 Favorit game <a href="https://store.steampowered.com/app/1929610/Demonologist/">Demonologist</a></li>-->
-  <li>🤔 I’m looking for help with app development <a href="https://en.wikipedia.org/wiki/Czech_Republic"><img src="https://user-images.githubusercontent.com/115136363/195661567-dc3a2603-70d3-4679-a212-3e99265979c8.png" alt="CZ" width="17"></a></li>
+  <li>🤔 I’m looking for help with math <!--<a href="https://en.wikipedia.org/wiki/Czech_Republic"><img src="https://user-images.githubusercontent.com/115136363/195661567-dc3a2603-70d3-4679-a212-3e99265979c8.png" alt="CZ" width="17"></a>--></li>
   <li>⚡ Fun fact: Master at work</li>
   <li>💬 If you need something, ask me</li>
 </ul>
