@@ -2,13 +2,20 @@
   <img src="https://user-images.githubusercontent.com/115136363/223144523-e24158b1-3e02-4658-ba42-69f513911f25.gif" alt="welcome" />
   <img src="https://user-images.githubusercontent.com/115136363/223106502-a9c5ed39-3b22-4a81-ad59-5440699f7c81.gif" alt="true" />
 </p>-->
-# <p align="center" > 👋 Hello, I'm Michal 👋 </p>
+<h1 align="center" > 👋 Hello, I'm Michal 👋 </h1>
 <!--### Hi there 👋-->
 <ul>
   <!--<li>🌱 I'm currently studying at <a href="https://fit.cvut.cz/cs">ČVUT FIT</a></li>-->
-  <li>🌱 I've graduated from IT (at <a href=https://www.spsmb.cz/>SPSMB</a>)</li>
-      <li>📫 How to reach me: <a href="mailto:romster2012@post.cz">romster2012@post.cz</a></li>
-      <li>📫 You can also contact me via Discord(akino02)</li>
+  <li>🌱 Schools</li>
+  <ul>
+    <li>🌱 I've graduated from IT (at <a href=https://www.spsmb.cz/>SPSMB</a>)</li>
+    <li>🌱 Currently studying CTU </li>
+  </ul>
+  <li>📫 How to reach me: </li>
+  <ul>
+    <li>📫 You can contact me via email <a href="mailto:romster2012@post.cz">romster2012@post.cz</a></li>
+    <li>📫 You can also contact me via Discord(akino02)</li>
+  </ul>
   <!--<li>📫 How to reach me: Discord(akino02), Steam(<a href="https://steamcommunity.com/profiles/76561198147089025"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam_logo_wiki" width="15" ></a>)</li>-->
   <!--<li>😄 Favorit game <a href="https://store.steampowered.com/app/1929610/Demonologist/">Demonologist</a></li>-->
   <li>🤔 I’m looking for help with math <!--<a href="https://en.wikipedia.org/wiki/Czech_Republic"><img src="https://user-images.githubusercontent.com/115136363/195661567-dc3a2603-70d3-4679-a212-3e99265979c8.png" alt="CZ" width="17"></a>--></li>
@@ -38,6 +45,10 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <!--<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>-->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </div>
 <hr>
 <h3>My recent projects</h3>
@@ -47,6 +58,6 @@
 <li>🏰 <a href="https://github.com/Akino02/War-of-Civilizations">War of Civilizations (Age of War)(Unity)<a/></li>
 <h3>My recent projects with teams</h3>
 <li>👻 <a href="https://github.com/jirkapriv/PacmanThemedGame">PacMan</a></li>
-<hr>
+<!--<hr>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akino02&show_icons=true&locale=en&layout=compact" alt="akino02" /></p>
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akino02&show_icons=true&locale=en" alt="akino02" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akino02&show_icons=true&locale=en" alt="akino02" /></p>-->
