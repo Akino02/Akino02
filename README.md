@@ -46,7 +46,7 @@
 <hr>
 <h3>My recent projects</h3>
 <li>🍪 <a href="https://akino02.github.io/MineBlock/">MineBlock(CookieClicker)</a></li>
-<li>⚪ <a href="https://akino02.github.io/osu/">Wish Osu(Osu)</a></li>
+<li>⚪ <a href="https://akino02.github.io/WishOsu/">Wish Osu(Osu)</a></li>
 <li>🚢 <a href="https://akino02.github.io/battleships/">BattleShips</a></li>
 <li>🏰 <a href="https://github.com/Akino02/War-of-Civilizations">War of Civilizations (Age of War)(Unity)<a/></li>
 <h3>My recent projects with teams</h3>
