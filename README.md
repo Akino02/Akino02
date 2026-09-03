@@ -12,7 +12,7 @@
   </ul>
   <li>📫 How to reach me: </li>
   <ul>
-    <li>✉️ You can find me on <a href="https://www.linkedin.com/in/michal-ad%C3%A1mek-69b14029b/">LinkedIn</a></li>
+    <li>✉️ You can find me on <a href="https://www.linkedin.com/in/adamekmichal/">LinkedIn</a></li>
   </ul>
   <li>🤔 I’m looking for help with some ideas for big projects.</li>
   <li>💡 Fun fact: Working fast isn’t effective.</li>
